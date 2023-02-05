@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-05T18:56:15.025Z" agent="5.0 (Windows)" etag="olwglDQNNqFOyWfjWuFc" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-05T18:57:38.041Z" agent="5.0 (Windows)" etag="-DZiBKyr173SS-d5Rzhs" version="20.8.16" type="github">
   <diagram name="Page-1" id="ftNd-YgC9ZWd_KhuzdhC">
-    <mxGraphModel dx="926" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1100" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -155,9 +155,9 @@
         <mxCell id="OSbUybemLlkvj55cs3ST-43" value="Gerer le profil" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;spacing=3.8;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;lucidId=3sitsereLQRn;" vertex="1" parent="1">
           <mxGeometry x="380" y="1150" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OSbUybemLlkvj55cs3ST-44" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="OSbUybemLlkvj55cs3ST-28" target="OSbUybemLlkvj55cs3ST-23">
+        <mxCell id="OSbUybemLlkvj55cs3ST-44" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OSbUybemLlkvj55cs3ST-23" target="OSbUybemLlkvj55cs3ST-28">
           <mxGeometry x="-0.2185" y="5" width="160" relative="1" as="geometry">
-            <mxPoint x="350" y="470" as="sourcePoint" />
+            <mxPoint x="350" y="430" as="sourcePoint" />
             <mxPoint x="510" y="470" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
