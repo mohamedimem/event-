@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-05T16:08:19.997Z" agent="5.0 (Windows)" etag="ClAfN8k-EsCZf7srLZQj" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-05T16:10:05.320Z" agent="5.0 (Windows)" etag="Q7b_bW3L4SzFgWkU5DTn" version="20.8.16" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="3154" dy="815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2269" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -86,7 +86,7 @@
           <mxGeometry y="598" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="5mnJ16wSldUnXJheerde-11" value="Organisateur" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="530" y="704" width="160" height="416" as="geometry">
+          <mxGeometry x="530" y="704" width="160" height="494" as="geometry">
             <mxRectangle x="130" y="380" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -141,6 +141,15 @@
             <mxPoint x="160" y="255" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="jNlr6iQfmTOFvJ1YCdAX-0" value="checkattendee" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=0" vertex="1" parent="5mnJ16wSldUnXJheerde-11">
+          <mxGeometry y="416" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="jNlr6iQfmTOFvJ1YCdAX-1" value="addDoorman" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=0" vertex="1" parent="5mnJ16wSldUnXJheerde-11">
+          <mxGeometry y="442" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="jNlr6iQfmTOFvJ1YCdAX-2" value="deleteDoorman" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=0" vertex="1" parent="5mnJ16wSldUnXJheerde-11">
+          <mxGeometry y="468" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="5mnJ16wSldUnXJheerde-32" value="Reservation" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="540" y="1280" width="160" height="190" as="geometry" />
