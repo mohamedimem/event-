@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-06T09:13:42.479Z" agent="5.0 (Windows)" etag="6MFZGNbcZOZP98IzE4He" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-06T09:15:35.457Z" agent="5.0 (Windows)" etag="kDArRY_l-SbghGeWRFA3" version="20.8.16" type="github">
   <diagram name="Page-1" id="7BaUvszCBu6dx5qAS3bt">
-    <mxGraphModel dx="1100" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1956" dy="1044" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -86,13 +86,7 @@
           <mxGeometry x="860" y="400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="at9j3Gz7QIBB9mjerq5c-24" value="Deconnecter" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;spacing=3.8;strokeColor=#000000;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=1;lucidId=XvitmW9DInrr;" parent="1" vertex="1">
-          <mxGeometry x="980" y="310" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="at9j3Gz7QIBB9mjerq5c-25" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;fontSize=14;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.694;exitY=0.015;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#000000;strokeWidth=1;" parent="1" source="at9j3Gz7QIBB9mjerq5c-23" target="at9j3Gz7QIBB9mjerq5c-24" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="1275" y="370" as="sourcePoint" />
-            <mxPoint x="1435" y="370" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="990" y="480" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U9_1Y7d2OegKnLiAlMFN-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.557;entryY=0.024;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=1;endArrow=none;endFill=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="at9j3Gz7QIBB9mjerq5c-16" target="at9j3Gz7QIBB9mjerq5c-12">
           <mxGeometry relative="1" as="geometry">
@@ -186,6 +180,48 @@
             <Array as="points">
               <mxPoint x="960" y="102" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U9_1Y7d2OegKnLiAlMFN-28" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;fontSize=14;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="at9j3Gz7QIBB9mjerq5c-10" target="at9j3Gz7QIBB9mjerq5c-23">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="510" y="350" as="sourcePoint" />
+            <mxPoint x="670" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="920" y="263" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U9_1Y7d2OegKnLiAlMFN-29" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;fontSize=14;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="U9_1Y7d2OegKnLiAlMFN-4" target="at9j3Gz7QIBB9mjerq5c-23">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="510" y="540" as="sourcePoint" />
+            <mxPoint x="670" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U9_1Y7d2OegKnLiAlMFN-30" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;fontSize=14;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="U9_1Y7d2OegKnLiAlMFN-11" target="at9j3Gz7QIBB9mjerq5c-23">
+          <mxGeometry x="-0.4832" y="-2" width="160" relative="1" as="geometry">
+            <mxPoint x="510" y="540" as="sourcePoint" />
+            <mxPoint x="670" y="540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="700" y="580" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U9_1Y7d2OegKnLiAlMFN-31" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;fontSize=14;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="at9j3Gz7QIBB9mjerq5c-6" target="at9j3Gz7QIBB9mjerq5c-23">
+          <mxGeometry x="-0.2251" width="160" relative="1" as="geometry">
+            <mxPoint x="510" y="630" as="sourcePoint" />
+            <mxPoint x="670" y="630" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="850" y="740" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U9_1Y7d2OegKnLiAlMFN-32" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;startArrow=open;endArrow=none;startSize=12;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;fontSize=14;exitX=0.992;exitY=0.645;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="at9j3Gz7QIBB9mjerq5c-23" target="at9j3Gz7QIBB9mjerq5c-24">
+          <mxGeometry x="0.7085" y="20" width="160" relative="1" as="geometry">
+            <mxPoint x="850" y="460" as="sourcePoint" />
+            <mxPoint x="1010" y="460" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
