@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-06T16:52:16.750Z" agent="5.0 (Windows)" etag="q06iM7NY_7vxafJh7DPy" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-06T18:20:51.850Z" agent="5.0 (Windows)" etag="sOA0Tb0ZoOP_oNIC0Inq" version="20.8.16" type="github">
   <diagram name="Page-1" id="oKYqLAlFBlPUoExyLl6c">
     <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -132,6 +132,18 @@
         </mxCell>
         <mxCell id="MNkqo8t-yjYE44w6BTjp-1" value="Consulter ludification" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;spacing=3.8;strokeColor=#080808;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=1;lucidId=KpitLF8Kvkj4;" parent="1" vertex="1">
           <mxGeometry x="350" y="670" width="165" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RmYMeX5jf7BkhO7fVPH6-1" value="Partager un évenement" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;spacing=3.8;strokeColor=#080808;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=1;lucidId=KpitLF8Kvkj4;" vertex="1" parent="1">
+          <mxGeometry x="350" y="710" width="165" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RmYMeX5jf7BkhO7fVPH6-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" target="fYzc5iGK3RnNoOoryGZN-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="70" y="720" />
+            </Array>
+            <mxPoint x="350" y="725" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
