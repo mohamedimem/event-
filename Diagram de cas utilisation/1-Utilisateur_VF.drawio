@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-02-06T16:17:54.716Z" agent="5.0 (Windows)" etag="ZEV45nMG_tvE9eWeDe0Q" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-06T16:52:16.750Z" agent="5.0 (Windows)" etag="q06iM7NY_7vxafJh7DPy" version="20.8.16" type="github">
   <diagram name="Page-1" id="oKYqLAlFBlPUoExyLl6c">
-    <mxGraphModel dx="817" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="fYzc5iGK3RnNoOoryGZN-3" value="Utilisateur" style="html=1;overflow=block;blockSpacing=1;shape=umlActor;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;whiteSpace=nowrap;fontSize=16.7;fontColor=#333333;align=center;spacing=0;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;lucidId=8mitzC-ZQj-q;" parent="1" vertex="1">
+        <mxCell id="fYzc5iGK3RnNoOoryGZN-3" value="Visiteur" style="html=1;overflow=block;blockSpacing=1;shape=umlActor;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;whiteSpace=nowrap;fontSize=16.7;fontColor=#333333;align=center;spacing=0;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;lucidId=8mitzC-ZQj-q;" parent="1" vertex="1">
           <mxGeometry x="40" y="350" width="60" height="135" as="geometry" />
         </mxCell>
         <mxCell id="48hHsusyQehYmFjqrb_I-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="fYzc5iGK3RnNoOoryGZN-4" target="fYzc5iGK3RnNoOoryGZN-3" edge="1">
