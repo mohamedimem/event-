@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-06T09:35:41.250Z" agent="5.0 (Windows)" etag="53Cj0NyO8IUm7YUVRFRP" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-06T14:38:10.705Z" agent="5.0 (Windows)" etag="BzFfys6kHaHQj8BBUWSH" version="20.8.16" type="github">
   <diagram name="Page-1" id="7BaUvszCBu6dx5qAS3bt">
-    <mxGraphModel dx="1909" dy="964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1222" dy="631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -86,7 +86,7 @@
           <mxGeometry x="860" y="400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="at9j3Gz7QIBB9mjerq5c-24" value="Deconnecter" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;spacing=3.8;strokeColor=#000000;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=1;lucidId=XvitmW9DInrr;" parent="1" vertex="1">
-          <mxGeometry x="990" y="480" width="140" height="60" as="geometry" />
+          <mxGeometry x="990" y="480" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="U9_1Y7d2OegKnLiAlMFN-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.557;entryY=0.024;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=1;endArrow=none;endFill=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="at9j3Gz7QIBB9mjerq5c-16" target="at9j3Gz7QIBB9mjerq5c-12" edge="1">
           <mxGeometry relative="1" as="geometry">
