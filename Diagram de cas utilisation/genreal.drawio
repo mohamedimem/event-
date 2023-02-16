@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-16T19:31:14.759Z" agent="5.0 (Windows)" etag="FUIQgVUGFKvlQRyNwAU7" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-16T19:31:21.575Z" agent="5.0 (Windows)" etag="6YXuiJQVyr6jbX9XXPFn" version="20.8.20" type="github">
   <diagram name="Page-1" id="S8-5whWWjBByGaZXZ5yN">
     <mxGraphModel dx="1111" dy="-4102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -48,7 +48,7 @@
         <mxCell id="oR9qkToTt6fAtuaVTWsN-10" value="Réserver événement" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="5180" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oR9qkToTt6fAtuaVTWsN-12" value="Consulter la liste des evenements" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="oR9qkToTt6fAtuaVTWsN-12" value="Consulter les evenements" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="5110" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oR9qkToTt6fAtuaVTWsN-13" value="Gérer la liste des abonnés" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
