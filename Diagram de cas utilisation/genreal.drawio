@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-16T19:28:30.566Z" agent="5.0 (Windows)" etag="PvWoyXlxiBOyERl8IVGD" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-16T19:30:46.655Z" agent="5.0 (Windows)" etag="EMVTtuSr5qLc2HLVxaha" version="20.8.20" type="github">
   <diagram name="Page-1" id="S8-5whWWjBByGaZXZ5yN">
-    <mxGraphModel dx="1218" dy="-4150" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1111" dy="-4102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -293,6 +293,27 @@
         </mxCell>
         <mxCell id="c4U2veaWLUC5YjbxtlW5-1" value="consulter liste ludification" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="329" y="4930" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c4U2veaWLUC5YjbxtlW5-3" value="Partager un évenement" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;spacing=3.8;strokeColor=#080808;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=1;lucidId=KpitLF8Kvkj4;" vertex="1" parent="1">
+          <mxGeometry x="329" y="4980" width="165" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c4U2veaWLUC5YjbxtlW5-5" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oR9qkToTt6fAtuaVTWsN-1" target="c4U2veaWLUC5YjbxtlW5-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="4970" as="sourcePoint" />
+            <mxPoint x="310" y="4920" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="300" y="4925" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c4U2veaWLUC5YjbxtlW5-6" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oR9qkToTt6fAtuaVTWsN-1" target="c4U2veaWLUC5YjbxtlW5-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="5050" as="sourcePoint" />
+            <mxPoint x="340" y="5000" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260" y="4995" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
