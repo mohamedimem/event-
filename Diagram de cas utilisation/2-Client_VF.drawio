@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-04T13:42:25.544Z" agent="5.0 (Windows)" etag="xccTHLgYhfhzguR1ciYz" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-04T13:42:35.835Z" agent="5.0 (Windows)" etag="dOCtrJgn3Q9EPjGO-jDT" version="21.0.2" type="github">
   <diagram name="Page-1" id="ftNd-YgC9ZWd_KhuzdhC">
-    <mxGraphModel dx="1222" dy="-196" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2222" dy="320" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,7 +37,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tYOuKYM6x3wthSHOWYr8-1" value="Client" style="html=1;overflow=block;blockSpacing=1;shape=umlActor;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;whiteSpace=nowrap;fontSize=16.7;fontColor=#333333;align=center;spacing=0;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;lucidId=Zoit8c.qYpQ7;" parent="1" vertex="1">
-          <mxGeometry x="30" y="1142.5" width="60" height="135" as="geometry" />
+          <mxGeometry x="30" y="1142.5" width="50" height="97.5" as="geometry" />
         </mxCell>
         <mxCell id="tYOuKYM6x3wthSHOWYr8-2" value="Gerer le profil" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;fontSize=13;spacing=3.8;strokeColor=#6c8ebf;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=1;lucidId=3sitsereLQRn;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="445" y="870" width="120" height="50" as="geometry" />
