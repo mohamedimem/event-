@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-12T22:34:58.371Z" agent="5.0 (Windows)" etag="zS9dp2qO3RtKtedE_RUV" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-12T22:36:38.038Z" agent="5.0 (Windows)" etag="zasrLzVJUgnQkm4emPkt" version="21.0.6" type="github">
   <diagram name="Page-1" id="VqRzfH68NdBMtwMaP0Is">
     <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -75,7 +75,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3SohB1MQZEpIYwgny2Cj-52" value="&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;5:SupprimerCategorie&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;(ArtistID)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3SohB1MQZEpIYwgny2Cj-52" value="&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;5:SupprimerCategorie&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;(CategorieID)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="402" y="322" width="175" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3SohB1MQZEpIYwgny2Cj-53" value="9: Mise à jour()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
