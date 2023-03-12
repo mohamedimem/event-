@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-12T21:50:28.131Z" agent="5.0 (Windows)" etag="l9F7VkrOy5mkwdsP_n0q" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-12T21:50:40.830Z" agent="5.0 (Windows)" etag="ovY4uju5oGcYJcV6tMcX" version="21.0.6" type="github">
   <diagram name="Page-1" id="c_9UT2JSTmkC-Qce2Pwd">
     <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -47,7 +47,7 @@
         <mxCell id="dDMGeoulFam2Kv4sPXcY-17" value=":utilisateur" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="607" y="40" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dDMGeoulFam2Kv4sPXcY-18" value="Client" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
+        <mxCell id="dDMGeoulFam2Kv4sPXcY-18" value="Admin" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="10" y="40" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dDMGeoulFam2Kv4sPXcY-19" value=":IListeUtilisateurs" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" parent="1" vertex="1">
