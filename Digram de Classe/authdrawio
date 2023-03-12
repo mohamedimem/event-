@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-12T10:15:58.286Z" agent="5.0 (Windows)" etag="jrK9XBYNxh9ei2p00vA6" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-12T11:11:01.363Z" agent="5.0 (Windows)" etag="D6HIh9zm1dVzJeqI4U5G" version="21.0.6" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="2444" dy="1262" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="509" dy="263" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,7 +25,7 @@
         <mxCell id="crz6-JaQdEtOn7VpNXDb-16" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="crz6-JaQdEtOn7VpNXDb-7">
           <mxGeometry x="25" y="85" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="crz6-JaQdEtOn7VpNXDb-17" value="&lt;div&gt;Verification Champs&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="crz6-JaQdEtOn7VpNXDb-7">
+        <mxCell id="crz6-JaQdEtOn7VpNXDb-17" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Verification Champs&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="crz6-JaQdEtOn7VpNXDb-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="30" y="79" as="sourcePoint" />
             <Array as="points">
@@ -40,7 +40,7 @@
         <mxCell id="crz6-JaQdEtOn7VpNXDb-25" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="crz6-JaQdEtOn7VpNXDb-8">
           <mxGeometry x="15" y="230" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="crz6-JaQdEtOn7VpNXDb-26" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" target="crz6-JaQdEtOn7VpNXDb-25" parent="crz6-JaQdEtOn7VpNXDb-8">
+        <mxCell id="crz6-JaQdEtOn7VpNXDb-26" value="verificat" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" target="crz6-JaQdEtOn7VpNXDb-25" parent="crz6-JaQdEtOn7VpNXDb-8">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-55" y="230" as="sourcePoint" />
             <Array as="points">
@@ -54,21 +54,18 @@
         <mxCell id="crz6-JaQdEtOn7VpNXDb-19" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="crz6-JaQdEtOn7VpNXDb-9">
           <mxGeometry x="15" y="154" width="10" height="226" as="geometry" />
         </mxCell>
-        <mxCell id="crz6-JaQdEtOn7VpNXDb-20" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" target="crz6-JaQdEtOn7VpNXDb-19" parent="crz6-JaQdEtOn7VpNXDb-9">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="crz6-JaQdEtOn7VpNXDb-20" value="Verification" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" target="crz6-JaQdEtOn7VpNXDb-19" parent="crz6-JaQdEtOn7VpNXDb-9">
+          <mxGeometry x="0.3889" y="-76" relative="1" as="geometry">
             <mxPoint x="-55" y="154" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="-110" y="154" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="crz6-JaQdEtOn7VpNXDb-11" value="Demande Inscription" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" target="crz6-JaQdEtOn7VpNXDb-10" parent="1" source="crz6-JaQdEtOn7VpNXDb-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="110" y="145.25" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="50" y="150" />
-              <mxPoint x="100" y="150" />
-            </Array>
+        <mxCell id="crz6-JaQdEtOn7VpNXDb-43" value="Post(data)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="crz6-JaQdEtOn7VpNXDb-20">
+          <mxGeometry x="0.3846" y="2" relative="1" as="geometry">
+            <mxPoint x="-9" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="crz6-JaQdEtOn7VpNXDb-27" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" source="crz6-JaQdEtOn7VpNXDb-25" parent="1" target="crz6-JaQdEtOn7VpNXDb-19">
@@ -95,6 +92,18 @@
               <mxPoint x="280" y="430" />
             </Array>
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="crz6-JaQdEtOn7VpNXDb-42" value="Remplir formulaire" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="45" y="150" as="sourcePoint" />
+            <mxPoint x="180" y="150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="145" y="150" />
+              <mxPoint x="155" y="130" />
+              <mxPoint x="55" y="100" />
+              <mxPoint x="105" y="100" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
